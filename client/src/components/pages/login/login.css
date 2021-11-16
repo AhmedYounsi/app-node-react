@@ -1,0 +1,37 @@
+  /*login */
+  .login {
+    position: relative;
+
+    background: url('../../../assets/images/signin.svg') no-repeat center center/cover;
+
+    height: 50vh;
+    width: 75%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+
+ 
+  }
+ /* Text Styles*/
+ .x-large {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    text-align: center;
+    
+
+  }
+   
+  .lead {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+
+  }
+  
+    
+    
